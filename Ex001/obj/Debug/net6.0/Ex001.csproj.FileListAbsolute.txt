@@ -1,0 +1,15 @@
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.dll
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.dll
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/refint/Ex001.dll
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
+/Users/anna/Desktop/Projects/repo/Examples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
